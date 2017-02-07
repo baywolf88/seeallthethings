@@ -1,0 +1,4238 @@
+Shodan Search Queries
+has_screenshot:true product:"D-Link/Airlink IP webcam http config" state:"SC"
+has_screenshot:true product:"hipcam" state:"SC"
+has_screenshot:true product:"vivotek" state:"SC"
+
+insecam.org Google Dork
+site:insecam.org South Carolina
+
+SCDOT Feed (requires m3u8 or rtmp player) https://www.hlsplayer.net/rtmp-player
+coordinates
+-81.050091
+34.009967
+Columbia TMC
+5:  Elmwood Ave
+http://8.15.251.56:1935/rtplive/10005/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10005
+coordinates
+-81.052432
+34.008779
+Columbia TMC
+6:  I-126 E @ Huger Street
+http://8.15.251.57:1935/rtplive/10006/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10006
+coordinates
+-81.06269
+34.009855
+Columbia TMC
+7:  I-126 E @ Broad River Bridge
+http://8.15.251.55:1935/rtplive/10007/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10007
+coordinates
+-81.074205
+34.012136
+Columbia TMC
+8:  I-126 E @ Greystone Blvd
+http://8.15.251.56:1935/rtplive/10008/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10008
+coordinates
+-81.08186
+34.014064
+Columbia TMC
+9:  I-126 E @ Candy Lane
+http://8.15.251.57:1935/rtplive/10009/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10009
+coordinates
+-81.091501
+34.018092
+Columbia TMC
+10:  I-126 E @ Colonial Life Blvd
+http://8.15.251.55:1935/rtplive/10010/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10010
+coordinates
+-81.098137
+34.024724
+Columbia TMC
+11:  I-126 W @ I-26 E Flyover
+http://8.15.251.56:1935/rtplive/10011/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10011
+coordinates
+-81.121627
+34.03185
+Columbia TMC
+13:  I-20 W @ MM 63 (Bush River Rd)
+http://8.15.251.57:1935/rtplive/10013/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10013
+coordinates
+-81.110651
+34.037182
+Columbia TMC
+14:  I-26 W @ I-20 W (Exit 107)
+http://8.15.251.55:1935/rtplive/10014/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10014
+coordinates
+-81.110183
+34.00399
+Columbia TMC
+15:  US 378 @ I-26 E
+http://8.15.251.56:1935/rtplive/10015/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10015
+coordinates
+-81.104821
+34.030598
+Columbia TMC
+16:  I-26 E @ MM 108 (Bush River Rd)
+http://8.15.251.57:1935/rtplive/10016/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10016
+coordinates
+-81.101358
+34.027408
+Columbia TMC
+17:  I-26 W @ Exit 108 (Flyover)
+http://8.15.251.55:1935/rtplive/10017/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10017
+coordinates
+-81.070981
+33.92664
+Columbia TMC
+18:  I-26 E @ I-77 S
+http://8.15.251.56:1935/rtplive/10018/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10018
+coordinates
+-81.056916
+33.912245
+Columbia TMC
+19:  I-26 W @ MM 117
+http://8.15.251.57:1935/rtplive/10019/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10019
+coordinates
+-81.06977
+33.927804
+Columbia TMC
+20:  I-26 E @ I-77
+http://8.15.251.55:1935/rtplive/10020/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10020
+coordinates
+-81.124907
+34.050989
+Columbia TMC
+21:  I-26 E @ MM 106
+http://8.15.251.56:1935/rtplive/10021/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10021
+coordinates
+-81.115473
+34.042285
+Columbia TMC
+22:  I-26 W @ MM 106 (St. Andrews Rd)
+http://8.15.251.57:1935/rtplive/10022/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10022
+coordinates
+-81.120218
+34.047257
+Columbia TMC
+23:  I-26 W @ MM 106
+http://8.15.251.55:1935/rtplive/10023/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10023
+coordinates
+-81.127052
+34.053514
+Columbia TMC
+24:  I-26 W @ MM 105.5
+http://8.15.251.56:1935/rtplive/10024/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10024
+coordinates
+-81.134846
+34.060663
+Columbia TMC
+25:  I-26 W @ MM 105
+http://8.15.251.57:1935/rtplive/10025/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10025
+coordinates
+-81.141588
+34.067395
+Columbia TMC
+26:  I-26 W @ MM 104 (Piney Grove Rd)
+http://8.15.251.55:1935/rtplive/10026/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10026
+coordinates
+-81.147225
+34.072714
+Columbia TMC
+27:  I-26 W @ MM 103.9
+http://8.15.251.56:1935/rtplive/10027/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10027
+coordinates
+-81.152319
+34.078128
+Columbia TMC
+28:  I-26 W @ MM 103 (Harbison Blvd)
+http://8.15.251.57:1935/rtplive/10028/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10028
+coordinates
+-81.069036
+34.012043
+Columbia TMC
+29:  I-126 W @ Greystone Blvd
+http://8.15.251.55:1935/rtplive/10029/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10029
+coordinates
+-81.106877
+34.016283
+Columbia TMC
+30:  I-26 W @ MM 109
+http://8.15.251.56:1935/rtplive/10030/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10030
+coordinates
+-81.111294
+34.006953
+Columbia TMC
+31:  I-26 E @ Exit 110 (US 378)
+http://8.15.251.57:1935/rtplive/10031/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10031
+coordinates
+-81.107401
+33.99304
+Columbia TMC
+32:  I-26 W @ MM 110.5 (Leaphart Rd)
+http://8.15.251.55:1935/rtplive/10032/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10032
+coordinates
+-81.107249
+33.980546
+Columbia TMC
+33:  I-26 E @ Exit 111 (US 1)
+http://8.15.251.56:1935/rtplive/10033/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10033
+coordinates
+-81.100552
+33.968721
+Columbia TMC
+34:  I-26 E @ MM 112
+http://8.15.251.57:1935/rtplive/10034/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10034
+coordinates
+-81.098984
+33.967189
+Columbia TMC
+35:  I-26 W @ MM 112
+http://8.15.251.55:1935/rtplive/10035/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10035
+coordinates
+-81.0933
+33.955652
+Columbia TMC
+36:  I-26 E @ Exit 113 (SC 302)
+http://8.15.251.56:1935/rtplive/10036/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10036
+coordinates
+-81.090334
+33.946564
+Columbia TMC
+37:  I-26 E @ MM 113.5
+http://8.15.251.57:1935/rtplive/10037/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10037
+coordinates
+-81.08665
+33.938521
+Columbia TMC
+38:  I-26 E @ MM 114 (Old Dunbar Rd)
+http://8.15.251.55:1935/rtplive/10038/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10038
+coordinates
+-81.07724
+33.9328
+Columbia TMC
+39:  I-26 E @ MM 115 (US 321)
+http://8.15.251.56:1935/rtplive/10039/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10039
+coordinates
+-81.158371
+34.083991
+Columbia TMC
+40:  I-26 W @ MM 102.5
+http://8.15.251.57:1935/rtplive/10040/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10040
+coordinates
+-81.165767
+34.091288
+Columbia TMC
+41:  I-26 W @ Exit 102
+http://8.15.251.55:1935/rtplive/10041/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10041
+coordinates
+-81.174135
+34.098738
+Columbia TMC
+42:  I-26 W @ Exit 101
+http://8.15.251.56:1935/rtplive/10042/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10042
+coordinates
+-81.18162
+34.105869
+Columbia TMC
+43:  I-26 W @ MM 100.5
+http://8.15.251.57:1935/rtplive/10043/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10043
+coordinates
+-81.186902
+34.110319
+Columbia TMC
+44:  I-26 E @ MM 100
+http://8.15.251.55:1935/rtplive/10044/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10044
+coordinates
+-81.192552
+34.116478
+Columbia TMC
+45:  I-26 W @ MM 99.5
+http://8.15.251.56:1935/rtplive/10045/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10045
+coordinates
+-81.198638
+34.122336
+Columbia TMC
+46:  I-26 W @ MM 99
+http://8.15.251.57:1935/rtplive/10046/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10046
+coordinates
+-81.205277
+34.128757
+Columbia TMC
+47:  I-26 W @ MM 98.5
+http://8.15.251.55:1935/rtplive/10047/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10047
+coordinates
+-81.211292
+34.133951
+Columbia TMC
+48:  I-26 W @ MM 98
+http://8.15.251.56:1935/rtplive/10048/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10048
+coordinates
+-81.220399
+34.138227
+Columbia TMC
+49:  I-26 W @ MM 97.5
+http://8.15.251.57:1935/rtplive/10049/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10049
+coordinates
+-81.228509
+34.141878
+Columbia TMC
+50:  I-26 W @ MM 97.5
+0
+http://8.15.251.55:1935/rtplive/10050/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10050
+coordinates
+-81.238244
+34.146312
+Columbia TMC
+51:  I-26 W @ Exit 97
+1
+http://8.15.251.56:1935/rtplive/10051/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10051
+coordinates
+-81.106625
+34.038128
+Columbia TMC
+60:  I-20 W @ MM 64 (Burning Tree)
+http://8.15.251.57:1935/rtplive/10060/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10060
+coordinates
+-81.093325
+34.039255
+Columbia TMC
+61:  I-20 E @ Exit 65 (Broad River Rd)
+http://8.15.251.55:1935/rtplive/10061/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10061
+coordinates
+-81.078535
+34.045623
+Columbia TMC
+62:  I-20 E @ MM 66
+http://8.15.251.56:1935/rtplive/10062/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10062
+coordinates
+-81.071246
+34.049018
+Columbia TMC
+63:  I-20 W @ Broad River Bridge
+http://8.15.251.57:1935/rtplive/10063/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10063
+coordinates
+-81.065001
+34.051755
+Columbia TMC
+64:  I-20 W @ MM 67
+http://8.15.251.55:1935/rtplive/10064/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10064
+coordinates
+-81.057164
+34.055285
+Columbia TMC
+65:  I-20 W @ MM 67.3
+http://8.15.251.56:1935/rtplive/10065/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10065
+coordinates
+-81.047906
+34.061906
+Columbia TMC
+66:  I-20 W @ MM 68.1
+http://8.15.251.57:1935/rtplive/10066/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10066
+coordinates
+-81.039481
+34.066305
+Columbia TMC
+67:  I-20 W @ MM 68.5
+http://8.15.251.55:1935/rtplive/10067/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10067
+coordinates
+-81.022196
+34.066314
+Columbia TMC
+68:  I-20 E @ Exit 70 (Fairfield Rd)
+http://8.15.251.56:1935/rtplive/10068/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10068
+coordinates
+-81.011865
+34.071281
+Columbia TMC
+69:  I-20 E @ MM 70.2
+http://8.15.251.57:1935/rtplive/10069/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10069
+coordinates
+-81.007627
+34.073529
+Columbia TMC
+70:  I-20 W @ MM 70.8
+http://8.15.251.55:1935/rtplive/10070/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10070
+coordinates
+-80.999329
+34.073469
+Columbia TMC
+71:  I-20 E @ Exit 71 (North Main St)
+http://8.15.251.56:1935/rtplive/10071/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10071
+coordinates
+-80.99146
+34.07367
+Columbia TMC
+72:  I-20 W @ MM 71.5
+http://8.15.251.57:1935/rtplive/10072/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10072
+coordinates
+-80.978892
+34.073239
+Columbia TMC
+73:  I-20 W @ MM 72 (Farrow Rd)
+http://8.15.251.55:1935/rtplive/10073/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10073
+coordinates
+-80.971139
+34.073032
+Columbia TMC
+74:  I-20 E @ MM 73 (SC 277)
+http://8.15.251.56:1935/rtplive/10074/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10074
+coordinates
+-80.958544
+34.073819
+Columbia TMC
+75:  I-20 E @ MM 73.5
+http://8.15.251.57:1935/rtplive/10075/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10075
+coordinates
+-80.948334
+34.073639
+Columbia TMC
+76:  I-20 E @ Exit 74 (Two Notch Rd)
+http://8.15.251.55:1935/rtplive/10076/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10076
+coordinates
+-80.942569
+34.073702
+Columbia TMC
+77:  I-20 W @ MM 74.5
+http://8.15.251.56:1935/rtplive/10077/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10077
+coordinates
+-80.933043
+34.069982
+Columbia TMC
+78:  I-20 E @ MM 75
+http://8.15.251.57:1935/rtplive/10078/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10078
+coordinates
+-80.927043
+34.067954
+Columbia TMC
+79:  I-20 E @ MM 75.5
+http://8.15.251.55:1935/rtplive/10079/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10079
+coordinates
+-80.922581
+34.067219
+Columbia TMC
+80:  I-20 E @ I-77 S (Exit 76)
+http://8.15.251.56:1935/rtplive/10080/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10080
+coordinates
+-80.893044
+34.079492
+Columbia TMC
+81:  I-20 E @ MM 76.5
+http://8.15.251.55:1935/rtplive/10081/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10081
+coordinates
+-80.882425
+34.083686
+Columbia TMC
+82:  I-20 E @ MM 77
+http://8.15.251.55:1935/rtplive/10082/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10082
+coordinates
+-80.877594
+34.085858
+Columbia TMC
+83:  I-20 E @ MM 77.5
+http://8.15.251.56:1935/rtplive/10083/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10083
+coordinates
+-80.882292
+34.083854
+Columbia TMC
+84:  I-20 E @ Smallwood Rd
+http://8.15.251.56:1935/rtplive/10084/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10084
+coordinates
+-80.862194
+34.092133
+Columbia TMC
+85:  I-20 E @ MM 78.5
+http://8.15.251.56:1935/rtplive/10085/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10085
+coordinates
+-80.862472
+34.092353
+Columbia TMC
+86:  I-20 W @ MM 78.5
+http://8.15.251.57:1935/rtplive/10086/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10086
+coordinates
+-80.856058
+34.094292
+Columbia TMC
+87:  I-20 E @ MM 79.5
+http://8.15.251.56:1935/rtplive/10087/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10087
+coordinates
+-80.83835
+34.101247
+Columbia TMC
+88:  I-20 W @ MM 79.5
+http://8.15.251.57:1935/rtplive/10088/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10088
+coordinates
+-80.829308
+34.104519
+Columbia TMC
+89:  I-20 E @ MM 80 (Clemson Rd)
+http://8.15.251.57:1935/rtplive/10089/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10089
+coordinates
+-80.809497
+34.111269
+Columbia TMC
+90:  I-20 E @ MM 81
+http://8.15.251.57:1935/rtplive/10090/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10090
+coordinates
+-80.805353
+34.113683
+Columbia TMC
+91:  I-20 E @ MM 82 (Spears Creek Rd)
+http://8.15.251.57:1935/rtplive/10091/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10091
+coordinates
+-80.809497
+34.111269
+Columbia TMC
+92:  I-20 E @ MM 82.7
+http://8.15.251.57:1935/rtplive/10092/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10092
+coordinates
+-80.805353
+34.113683
+Columbia TMC
+93:  I-20 W @ MM 83.3
+http://8.15.251.55:1935/rtplive/10093/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10093
+coordinates
+-80.494147
+33.417497
+Columbia TMC
+96:  I-95 N @ MM 93.2
+http://8.15.251.55:1935/rtplive/10096/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10096
+coordinates
+-80.513256
+33.397389
+Columbia TMC
+97:  I-95 S @ MM 91.5
+http://8.15.251.55:1935/rtplive/10097/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10097
+coordinates
+-80.519261
+33.382183
+Columbia TMC
+98:  I-95 S @ MM 90 (US-176)
+http://8.15.251.55:1935/rtplive/10098/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10098
+coordinates
+-80.568872
+33.271319
+Columbia TMC
+99:  I-95 N @ MM 82 (US-178)
+http://8.15.251.55:1935/rtplive/10099/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10099
+coordinates
+-80.59155
+33.227294
+Columbia TMC
+100:  I-95 N @ MM 79
+http://8.15.251.55:1935/rtplive/10100/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10100
+coordinates
+-80.483253
+33.266967
+Columbia TMC
+101:  I-26 W @ MM 174
+http://8.15.251.55:1935/rtplive/10101/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10101
+coordinates
+-80.513144
+33.287061
+Columbia TMC
+102:  I-26 W @ MM 172 (US-15)
+http://8.15.251.55:1935/rtplive/10102/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10102
+coordinates
+-80.547439
+33.318689
+Columbia TMC
+103:  I-95 N @ MM 86
+http://8.15.251.55:1935/rtplive/10103/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10103
+coordinates
+-80.5474
+33.318725
+Columbia TMC
+104:  I-95 N @ MM 86
+http://8.15.251.55:1935/rtplive/10104/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10104
+coordinates
+-80.592447
+33.359408
+Columbia TMC
+105:  I-26 E @ MM 165 (Hwy 210)
+http://8.15.251.55:1935/rtplive/10105/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10105
+coordinates
+-80.618797
+33.377611
+Columbia TMC
+106:  I-26 E @ MM 163
+http://8.15.251.55:1935/rtplive/10106/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10106
+coordinates
+-80.637047
+33.389325
+Columbia TMC
+107:  I-26 E @ MM 162
+http://8.15.251.55:1935/rtplive/10107/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10107
+coordinates
+-80.667411
+33.414153
+Columbia TMC
+108:  I-26 W @ MM 159 (Homestead Rd)
+http://8.15.251.55:1935/rtplive/10108/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10108
+coordinates
+-80.922701
+34.051981
+Columbia TMC
+109:  I-77 N @ Percival
+http://8.15.251.57:1935/rtplive/10109/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10109
+coordinates
+-80.941954
+34.028334
+Columbia TMC
+110:  I-77 S @ Decker
+http://8.15.251.55:1935/rtplive/10110/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10110
+coordinates
+-80.941875
+34.028366
+Columbia TMC
+111:  I-77 N @ MM 12
+http://8.15.251.56:1935/rtplive/10111/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10111
+coordinates
+-80.945989
+34.021309
+Columbia TMC
+112:  I-77 N @ Forest Dr
+http://8.15.251.57:1935/rtplive/10112/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10112
+coordinates
+-80.958677
+34.002283
+Columbia TMC
+113:  I-77 S @ MM 10.8
+http://8.15.251.55:1935/rtplive/10113/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10113
+coordinates
+-80.958375
+33.994484
+Columbia TMC
+114:  I-77 S @ Fort Jackson Blvd
+http://8.15.251.56:1935/rtplive/10114/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10114
+coordinates
+-80.952804
+33.989432
+Columbia TMC
+115:  I-77 N @ MM 9.8
+http://8.15.251.57:1935/rtplive/10115/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10115
+coordinates
+-80.954548
+33.973112
+Columbia TMC
+116:  I-77 N @ MM 9 (Garners Ferry Rd)
+http://8.15.251.55:1935/rtplive/10116/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10116
+coordinates
+-80.956747
+33.95553
+Columbia TMC
+117:  I-77 N @ MM 7.5
+http://8.15.251.56:1935/rtplive/10117/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10117
+coordinates
+-80.976707
+33.949211
+Columbia TMC
+118:  I-77 N @ MM 6.3 (Shop Rd)
+http://8.15.251.57:1935/rtplive/10118/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10118
+coordinates
+-80.989952
+33.950903
+Columbia TMC
+119:  I-77 S @ MM 5 (Bluff Rd)
+http://8.15.251.55:1935/rtplive/10119/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10119
+coordinates
+-81.011492
+33.935096
+Columbia TMC
+120:  I-77 @ MM 4
+http://8.15.251.56:1935/rtplive/10120/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10120
+coordinates
+-81.03163
+33.928464
+Columbia TMC
+121:  I-77 @ MM 3
+http://8.15.251.57:1935/rtplive/10121/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10121
+coordinates
+-81.04333
+33.92958
+Columbia TMC
+122:  I-77 S @ MM 2
+http://8.15.251.55:1935/rtplive/10122/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10122
+coordinates
+-81.063856
+33.917722
+Columbia TMC
+123:  I-26 E @ MM 116.5
+http://8.15.251.55:1935/rtplive/10123/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10123
+coordinates
+-81.051856
+33.906331
+Columbia TMC
+124:  I-26 W @ MM 117.5
+http://8.15.251.55:1935/rtplive/10124/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10124
+coordinates
+-81.040067
+33.889697
+Columbia TMC
+125:  I-26 W @ MM 118.5
+http://8.15.251.55:1935/rtplive/10125/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10125
+coordinates
+-81.037128
+33.880464
+Columbia TMC
+126:  I-26 E @ MM 119
+http://8.15.251.55:1935/rtplive/10126/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10126
+coordinates
+-81.031997
+33.863708
+Columbia TMC
+127:  I-26 E @ MM 120.7
+http://8.15.251.56:1935/rtplive/10127/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10127
+coordinates
+-81.026731
+33.849247
+Columbia TMC
+128:  I-26 E @ MM 121.5
+http://8.15.251.56:1935/rtplive/10128/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10128
+coordinates
+-81.023061
+33.838667
+Columbia TMC
+129:  I-26 E @ MM 123 (Rest Area)
+http://8.15.251.56:1935/rtplive/10129/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10129
+coordinates
+-81.01905
+33.827783
+Columbia TMC
+130:  I-26 E @ MM 123.5
+http://8.15.251.56:1935/rtplive/10130/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10130
+coordinates
+-81.007461
+33.810883
+Columbia TMC
+131:  I-26 E @ MM 125
+http://8.15.251.56:1935/rtplive/10131/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10131
+coordinates
+-80.995656
+33.794044
+Columbia TMC
+132:  I-26 E @ MM 126
+http://8.15.251.57:1935/rtplive/10132/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10132
+coordinates
+-80.986189
+33.780906
+Columbia TMC
+133:  I-26 E @ MM 127.2
+http://8.15.251.57:1935/rtplive/10133/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10133
+coordinates
+-80.972439
+33.767914
+Columbia TMC
+134:  I-26 E @ MM 128.5
+http://8.15.251.57:1935/rtplive/10134/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10134
+coordinates
+-80.964233
+33.764586
+Columbia TMC
+135:  I-26 E @ Exit 129
+http://8.15.251.57:1935/rtplive/10135/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10135
+coordinates
+-80.957733
+33.762672
+Columbia TMC
+136:  I-26 W @ MM 129.2
+http://8.15.251.57:1935/rtplive/10136/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10136
+coordinates
+-80.94305
+33.749583
+Columbia TMC
+137:  I-26 W @ MM 130.5
+http://8.15.251.55:1935/rtplive/10137/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10137
+coordinates
+-80.936344
+33.738419
+Columbia TMC
+138:  I-26 W @ MM 131.5
+http://8.15.251.55:1935/rtplive/10138/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10138
+coordinates
+-80.930647
+33.728842
+Columbia TMC
+139:  I-26 W @ MM 132
+http://8.15.251.55:1935/rtplive/10139/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10139
+coordinates
+-80.919625
+33.710211
+Columbia TMC
+140:  I-26 W @ MM 133.5
+http://8.15.251.55:1935/rtplive/10140/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10140
+coordinates
+-80.915439
+33.700333
+Columbia TMC
+141:  I-26 E @ MM 134.2
+http://8.15.251.55:1935/rtplive/10141/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10141
+coordinates
+-80.904531
+33.682686
+Columbia TMC
+142:  I-26 W @ MM 135.5
+http://8.15.251.56:1935/rtplive/10142/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10142
+coordinates
+-80.897475
+33.6724
+Columbia TMC
+143:  I-26 W @ Exit 136
+http://8.15.251.56:1935/rtplive/10143/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10143
+coordinates
+-80.875475
+33.634533
+Columbia TMC
+144:  I-26 W @ Exit 139
+http://8.15.251.56:1935/rtplive/10144/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10144
+coordinates
+-80.790939
+33.520014
+Columbia TMC
+145:  I-26 W @ Exit 149
+http://8.15.251.56:1935/rtplive/10145/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10145
+coordinates
+-81.130303
+34.023814
+Columbia TMC
+146:  I-20 E @ MM 62.5
+http://8.15.251.56:1935/rtplive/10146/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10146
+coordinates
+-81.140311
+34.015325
+Columbia TMC
+147:  I-20 E @ MM 62
+http://8.15.251.57:1935/rtplive/10147/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10147
+coordinates
+-81.149122
+34.011447
+Columbia TMC
+148:  I-20 W @ Exit 61
+http://8.15.251.57:1935/rtplive/10148/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10148
+coordinates
+-81.161644
+34.005861
+Columbia TMC
+150:  I-20 E @ MM 60.5
+http://8.15.251.57:1935/rtplive/10150/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10150
+coordinates
+-81.177489
+33.994964
+Columbia TMC
+152:  I-20 E @ MM 59.5
+http://8.15.251.57:1935/rtplive/10152/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10152
+coordinates
+-81.183481
+33.991808
+Columbia TMC
+153:  I-20 E @ MM 59
+http://8.15.251.57:1935/rtplive/10153/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10153
+coordinates
+-81.189758
+33.988964
+Columbia TMC
+154:  I-20 W @ MM 58.5
+http://8.15.251.55:1935/rtplive/10154/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10154
+coordinates
+-81.195233
+33.978444
+Columbia TMC
+155:  I-20 W @ Exit 58
+http://8.15.251.55:1935/rtplive/10155/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10155
+coordinates
+-81.198758
+33.969972
+Columbia TMC
+156:  I-20 E @ MM 57
+http://8.15.251.55:1935/rtplive/10156/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10156
+coordinates
+-81.206081
+33.966631
+Columbia TMC
+157:  I-20 E @ MM 56.5
+http://8.15.251.55:1935/rtplive/10157/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10157
+coordinates
+-80.026647
+32.876103
+Columbia TMC
+158:  I-20 E @ MM 55.5
+http://8.15.251.55:1935/rtplive/10158/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10158
+coordinates
+-80.022575
+32.83745
+Columbia TMC
+159:  I-20 E @ MM 55
+http://8.15.251.55:1935/rtplive/10159/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10159
+coordinates
+-81.243447
+33.95285
+Columbia TMC
+160:  I-20 W @ MM 54
+http://8.15.251.55:1935/rtplive/10160/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10160
+coordinates
+-81.262181
+33.942075
+Columbia TMC
+161:  I-20 E @ MM 53
+http://8.15.251.56:1935/rtplive/10161/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10161
+coordinates
+-81.269542
+33.938619
+Columbia TMC
+162:  I-20 W @ MM 52.5
+http://8.15.251.56:1935/rtplive/10162/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10162
+coordinates
+-81.289953
+33.9272
+Columbia TMC
+163:  I-20 W @ MM 51
+http://8.15.251.56:1935/rtplive/10163/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10163
+coordinates
+-80.925811
+34.071375
+Columbia TMC
+164:  I-77 S @ MM 16.5
+http://8.15.251.56:1935/rtplive/10164/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10164
+coordinates
+-80.934533
+34.0772
+Columbia TMC
+165:  I-77 S @ MM 17
+http://8.15.251.56:1935/rtplive/10165/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.56:1935/rtplive/10165
+coordinates
+-80.941439
+34.082136
+Columbia TMC
+166:  I-77 S @ Exit 17 (Two Notch Road)
+http://8.15.251.57:1935/rtplive/10166/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10166
+coordinates
+-80.958847
+34.099725
+Columbia TMC
+167:  I-77 S @ Exit 19 (Farrow Rd)
+http://8.15.251.57:1935/rtplive/10167/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10167
+coordinates
+-80.962464
+34.108658
+Columbia TMC
+168:  I-77 S @ MM 19.5
+http://8.15.251.57:1935/rtplive/10168/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10168
+coordinates
+-80.9627
+34.120878
+Columbia TMC
+169:  I-77 S @ MM 20.5
+http://8.15.251.57:1935/rtplive/10169/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10169
+coordinates
+-80.963997
+34.135394
+Columbia TMC
+170:  I-77 S @ Exit 22
+http://8.15.251.57:1935/rtplive/10170/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.57:1935/rtplive/10170
+coordinates
+-80.965414
+34.146989
+Columbia TMC
+171:  I-77 S @ MM 22.5
+http://8.15.251.55:1935/rtplive/10171/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10171
+coordinates
+-80.965564
+34.164983
+Columbia TMC
+172:  I-77 N @ MM 23.5
+http://8.15.251.55:1935/rtplive/10172/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10172
+coordinates
+-80.971133
+34.171361
+Columbia TMC
+173:  I-77 N @ Exit 24 (Wilson Blvd)
+http://8.15.251.55:1935/rtplive/10173/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10173
+coordinates
+-80.979436
+34.179975
+Columbia TMC
+174:  I-77 S @ MM 25
+http://8.15.251.55:1935/rtplive/10174/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10174
+coordinates
+-80.986208
+34.199075
+Columbia TMC
+175:  I-77 S @ MM 26
+http://8.15.251.55:1935/rtplive/10175/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10175
+coordinates
+-80.982986
+34.214006
+Columbia TMC
+176:  I-77 N @ Exit 27 (Blythewood Rd)
+http://8.15.251.55:1935/rtplive/10176/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/10176
+coordinates
+-81.070831
+33.926608
+Columbia TMC
+1018:  I-26 E @ I-77 N (2)
+http://8.15.251.55:1935/rtplive/11018/playlist.m3u8
+SCDOT
+Columbia
+rtmp://8.15.251.55:1935/rtplive/11018
+coordinates
+-82.258833
+34.8589
+Greenville TMC
+district : 03
+1:  I-85 N @ MM 54 (Pelham Rd.)
+http://8.15.251.56:1935/rtplive/30001/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30001
+coordinates
+-82.243657
+34.865019
+Greenville TMC
+district : 03
+2:  I-85 S @ MM 54.5 (Bateville Rd.)
+http://8.15.251.57:1935/rtplive/30002/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30002
+coordinates
+-82.23848
+34.866863
+Greenville TMC
+district : 03
+3:  I-85 S @ MM 55
+http://8.15.251.55:1935/rtplive/30003/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30003
+coordinates
+-82.231415
+34.869616
+Greenville TMC
+district : 03
+4:  I-85 S @ MM 55.5
+http://8.15.251.56:1935/rtplive/30004/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30004
+coordinates
+-82.224095
+34.872555
+Greenville TMC
+district : 03
+5:  I-85 S @ MM 56 (Hwy. 14 Bridge)
+http://8.15.251.57:1935/rtplive/30005/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30005
+coordinates
+-82.213255
+34.877644
+Greenville TMC
+district : 03
+6:  I-85 S @ MM 57 (Airport Rd.)
+http://8.15.251.55:1935/rtplive/30006/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30006
+coordinates
+-82.201653
+34.882317
+Greenville TMC
+district : 03
+7:  I-85 S @ MM 57.5
+http://8.15.251.56:1935/rtplive/30007/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30007
+coordinates
+-82.193551
+34.885602
+Greenville TMC
+district : 03
+8:  I-85 S @ MM 58
+http://8.15.251.57:1935/rtplive/30008/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30008
+coordinates
+-82.183071
+34.887521
+Greenville TMC
+district : 03
+9:  I-85 S @ MM 58.5 (Deyoung Rd.)
+http://8.15.251.55:1935/rtplive/30009/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30009
+coordinates
+-82.177758
+34.88846
+Greenville TMC
+district : 03
+10:  I-85 S @ MM 59 (North of BMW)
+http://8.15.251.56:1935/rtplive/30010/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30010
+coordinates
+-82.168916
+34.890011
+Greenville TMC
+district : 03
+11:  I-85 S @ MM 59.5 (BMW)
+http://8.15.251.57:1935/rtplive/30011/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30011
+coordinates
+-82.160212
+34.891999
+Greenville TMC
+district : 03
+12:  I-85 N @ MM 60 (Hwy 101)
+http://8.15.251.55:1935/rtplive/30012/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30012
+coordinates
+-82.154414
+34.896433
+Greenville TMC
+district : 03
+13:  I-85 S @ MM 60.2
+http://8.15.251.56:1935/rtplive/30013/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30013
+coordinates
+-82.1457
+34.899786
+Greenville TMC
+district : 03
+14:  I-85 S @ MM 60.5
+http://8.15.251.57:1935/rtplive/30014/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30014
+coordinates
+-82.138197
+34.900981
+Greenville TMC
+district : 03
+15:  I-85 S @ MM 61 (Danzler Rd.)
+http://8.15.251.55:1935/rtplive/30015/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30015
+coordinates
+-82.134056
+34.901651
+Greenville TMC
+district : 03
+16:  I-85 S @ MM 61.5
+http://8.15.251.56:1935/rtplive/30016/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30016
+coordinates
+-82.124809
+34.903107
+Greenville TMC
+district : 03
+17:  I-85 S @ MM 62
+http://8.15.251.57:1935/rtplive/30017/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30017
+coordinates
+-82.120378
+34.905374
+Greenville TMC
+district : 03
+18:  I-85 N @ MM 62.5
+http://8.15.251.55:1935/rtplive/30018/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30018
+coordinates
+-82.10866
+34.913508
+Greenville TMC
+district : 03
+19:  I-85 S @ MM 63 (Hwy. 290)
+http://8.15.251.56:1935/rtplive/30019/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30019
+coordinates
+-82.103753
+34.916761
+Greenville TMC
+district : 03
+20:  I-85 S @ MM 63.5
+http://8.15.251.57:1935/rtplive/30020/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30020
+coordinates
+-82.096224
+34.921415
+Greenville TMC
+district : 03
+21:  I-85 S @ MM 64 (Mid Tyger River)
+http://8.15.251.55:1935/rtplive/30021/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30021
+coordinates
+-82.088172
+34.927018
+Greenville TMC
+district : 03
+22:  I-85 S @ MM 64.5 (SHEP Office)
+http://8.15.251.56:1935/rtplive/30022/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30022
+coordinates
+-82.08251
+34.9312
+Greenville TMC
+district : 03
+23:  I-85 N @ MM 65
+http://8.15.251.57:1935/rtplive/30023/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30023
+coordinates
+-82.079064
+34.933424
+Greenville TMC
+district : 03
+24:  I-85 S @ MM 65.5 (Nazareth Rd.)
+http://8.15.251.55:1935/rtplive/30024/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30024
+coordinates
+-82.073883
+34.942267
+Greenville TMC
+district : 03
+25:  I-85 S @ MM 66 (US 29)
+http://8.15.251.56:1935/rtplive/30025/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30025
+coordinates
+-82.070051
+34.948824
+Greenville TMC
+district : 03
+26:  I-85 S @ MM 66.5
+http://8.15.251.57:1935/rtplive/30026/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30026
+coordinates
+-82.064316
+34.954442
+Greenville TMC
+district : 03
+27:  I-85 S @ MM 67
+http://8.15.251.55:1935/rtplive/30027/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30027
+coordinates
+-82.060331
+34.957626
+Greenville TMC
+district : 03
+28:  I-85 S @ MM 67.5
+http://8.15.251.56:1935/rtplive/30028/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30028
+coordinates
+-82.053757
+34.961175
+Greenville TMC
+district : 03
+29:  I-85 S @ MM 68 (Hwy. 129)
+http://8.15.251.57:1935/rtplive/30029/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30029
+coordinates
+-82.250994
+34.861791
+Greenville TMC
+district : 03
+30:  I-85 N @ MM 54.3 (North of Pelham Rd.)
+http://8.15.251.55:1935/rtplive/30030/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30030
+coordinates
+-82.430446
+34.791829
+Greenville TMC
+district : 03
+32:  I-85 S @ MM 43
+http://8.15.251.56:1935/rtplive/30032/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30032
+coordinates
+-82.416233
+34.790772
+Greenville TMC
+district : 03
+33:  I-85 N @ MM 44 (White Horse Rd.)
+http://8.15.251.57:1935/rtplive/30033/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30033
+coordinates
+-82.37617
+34.796246
+Greenville TMC
+district : 03
+34:  I-85 N @ MM 46 (Hwy. 291 Pleasantburg Dr.)
+http://8.15.251.55:1935/rtplive/30034/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30034
+coordinates
+-82.369842
+34.800625
+Greenville TMC
+district : 03
+35:  I-85 N @ MM 46 (Mauldin Rd.)
+http://8.15.251.56:1935/rtplive/30035/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30035
+coordinates
+-82.34803
+34.806061
+Greenville TMC
+district : 03
+36:  I-85 N @ MM 46.5
+http://8.15.251.57:1935/rtplive/30036/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30036
+coordinates
+-82.342975
+34.811584
+Greenville TMC
+district : 03
+37:  I-85 S @ MM 47
+http://8.15.251.55:1935/rtplive/30037/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30037
+coordinates
+-82.336931
+34.813328
+Greenville TMC
+district : 03
+38:  I-85 N @ MM 48 (Hwy. 276)
+http://8.15.251.56:1935/rtplive/30038/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30038
+coordinates
+-82.021272
+34.964858
+Greenville TMC
+district : 03
+45:  Bus. 85 S @ MM 1 (Blackstock Rd.)
+http://8.15.251.56:1935/rtplive/30045/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30045
+coordinates
+-82.005831
+34.968555
+Greenville TMC
+district : 03
+46:  Bus. 85 S @ MM 2 (At I-26)
+http://8.15.251.57:1935/rtplive/30046/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30046
+coordinates
+-81.998801
+34.970529
+Greenville TMC
+district : 03
+47:  Bus. 85 S @ MM 3 (Fairforest Rd.)
+http://8.15.251.55:1935/rtplive/30047/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30047
+coordinates
+-81.984298
+34.975462
+Greenville TMC
+district : 03
+48:  Bus. 85 S @ MM 3.5 (New Cut Rd.)
+http://8.15.251.56:1935/rtplive/30048/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30048
+coordinates
+-82.50555
+34.693877
+Greenville TMC
+district : 03
+51:  I-85 S @ MM 34 (US 29)
+1
+http://8.15.251.57:1935/rtplive/30051/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30051
+coordinates
+-82.535853
+34.674819
+Greenville TMC
+district : 03
+52:  I-85 S @ MM 32 (Hwy 8)
+2
+http://8.15.251.55:1935/rtplive/30052/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30052
+coordinates
+-82.597882
+34.633354
+Greenville TMC
+district : 03
+53:  I-85 S @ MM 27 (Hwy 81)
+3
+http://8.15.251.56:1935/rtplive/30053/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30053
+coordinates
+-82.635627
+34.607193
+Greenville TMC
+district : 03
+54:  I-85 N @ MM 24
+4
+http://8.15.251.57:1935/rtplive/30054/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30054
+coordinates
+-82.652895
+34.600692
+Greenville TMC
+district : 03
+55:  I-85 S @ MM 23 (Rest Area)
+5
+http://8.15.251.55:1935/rtplive/30055/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30055
+coordinates
+-82.692151
+34.579141
+Greenville TMC
+district : 03
+56:  I-85 N @ MM 21 (Hwy. 178)
+6
+http://8.15.251.56:1935/rtplive/30056/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30056
+coordinates
+-82.711573
+34.573691
+Greenville TMC
+district : 03
+57:  I-85 S @ MM 19 (Clemson Blvd.)
+7
+http://8.15.251.57:1935/rtplive/30057/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30057
+coordinates
+-82.440738
+34.788565
+Greenville TMC
+district : 03
+60:  I-85 N @ MM 42 (At I-185)
+http://8.15.251.55:1935/rtplive/30060/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30060
+coordinates
+-82.451718
+34.783662
+Greenville TMC
+district : 03
+61:  I-85 N @ MM 41
+http://8.15.251.56:1935/rtplive/30061/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30061
+coordinates
+-82.462932
+34.77465
+Greenville TMC
+district : 03
+62:  I-85 N @ MM 40 (Hwy 153)
+http://8.15.251.57:1935/rtplive/30062/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30062
+coordinates
+-82.032804
+34.96431
+Greenville TMC
+district : 03
+69:  I-85 N @ MM 69
+http://8.15.251.55:1935/rtplive/30069/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30069
+coordinates
+-82.002441
+34.982199
+Greenville TMC
+district : 03
+70:  I-85 S @ MM 70
+http://8.15.251.56:1935/rtplive/30070/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30070
+coordinates
+-82.01148
+34.978454
+Greenville TMC
+district : 03
+71:  I-85 S @ MM 71 (At I-26)
+http://8.15.251.57:1935/rtplive/30071/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30071
+coordinates
+-81.97618
+35.012576
+Greenville TMC
+district : 03
+72:  I-85 S @ MM 73.5
+http://8.15.251.55:1935/rtplive/30072/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30072
+coordinates
+-81.992544
+34.997674
+Greenville TMC
+district : 03
+73:  I-85 S @ MM 72.5
+http://8.15.251.56:1935/rtplive/30073/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30073
+coordinates
+-81.937513
+35.012322
+Greenville TMC
+district : 03
+76:  I 85 S @ MM 76
+http://8.15.251.57:1935/rtplive/30076/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30076
+coordinates
+-81.914769
+35.010789
+Greenville TMC
+district : 03
+77:  I-85 N @ MM 77
+http://8.15.251.55:1935/rtplive/30077/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30077
+coordinates
+-81.896557
+35.018558
+Greenville TMC
+district : 03
+79:  I-85 S @ MM 79
+http://8.15.251.56:1935/rtplive/30079/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30079
+coordinates
+-81.862916
+35.030035
+Greenville TMC
+district : 03
+80:  I-85 S @ MM 80
+http://8.15.251.57:1935/rtplive/30080/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30080
+coordinates
+-81.843752
+35.034324
+Greenville TMC
+district : 03
+82:  I-85 N @ MM 82
+http://8.15.251.55:1935/rtplive/30082/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30082
+coordinates
+-82.313943
+34.839596
+Greenville TMC
+district : 03
+90:  I-385 N @ MM 37 (Roper Mtn. Rd.)
+http://8.15.251.57:1935/rtplive/30090/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30090
+coordinates
+-82.322264
+34.846259
+Greenville TMC
+district : 03
+91:  I-385 N @ MM 38
+http://8.15.251.55:1935/rtplive/30091/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30091
+coordinates
+-82.325979
+34.849104
+Greenville TMC
+district : 03
+92:  I-385 N @ MM 38.5
+http://8.15.251.56:1935/rtplive/30092/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30092
+coordinates
+-82.334896
+34.854371
+Greenville TMC
+district : 03
+93:  I-385 N @ MM 39 (Haywood Rd.)
+http://8.15.251.57:1935/rtplive/30093/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30093
+coordinates
+-82.343061
+34.857349
+Greenville TMC
+district : 03
+94:  I-385 N @ MM 39.5
+http://8.15.251.55:1935/rtplive/30094/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30094
+coordinates
+-82.349123
+34.858122
+Greenville TMC
+district : 03
+95:  I-385 S @ MM 40
+http://8.15.251.56:1935/rtplive/30095/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30095
+coordinates
+-82.355808
+34.858077
+Greenville TMC
+district : 03
+96:  I-385 N @ MM 40.2 (Pleasantburg Dr.)
+http://8.15.251.57:1935/rtplive/30096/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30096
+coordinates
+-82.368324
+34.851402
+Greenville TMC
+district : 03
+97:  I-385 S @ MM 41
+http://8.15.251.55:1935/rtplive/30097/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30097
+coordinates
+-82.374575
+34.852378
+Greenville TMC
+district : 03
+98:  I-385 N @ MM 41.5
+http://8.15.251.56:1935/rtplive/30098/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30098
+coordinates
+-82.382553
+34.854318
+Greenville TMC
+district : 03
+99:  I-385 S @ MM 42 (Stone Ave.)
+http://8.15.251.57:1935/rtplive/30099/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30099
+coordinates
+-82.282965
+34.806509
+Greenville TMC
+district : 03
+104:  I-385 N @ Exit 34 (Butler Rd)
+http://8.15.251.55:1935/rtplive/30104/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30104
+coordinates
+-82.279852
+34.798212
+Greenville TMC
+district : 03
+105:  I-385 N @ MM 33.5
+http://8.15.251.56:1935/rtplive/30105/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30105
+coordinates
+-82.280895
+34.790505
+Greenville TMC
+district : 03
+106:  I-385 S @ MM 33 (Bridges Rd)
+http://8.15.251.57:1935/rtplive/30106/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30106
+coordinates
+-82.280799
+34.783321
+Greenville TMC
+district : 03
+107:  I-385 S @ MM 32.5
+http://8.15.251.55:1935/rtplive/30107/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30107
+coordinates
+-82.276581
+34.779363
+Greenville TMC
+district : 03
+108:  I-385 N @ MM 32
+http://8.15.251.56:1935/rtplive/30108/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30108
+coordinates
+-82.272683
+34.774316
+Greenville TMC
+district : 03
+109:  I-385 N @ MM 31.5
+http://8.15.251.57:1935/rtplive/30109/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30109
+coordinates
+-82.273296
+34.769717
+Greenville TMC
+district : 03
+110:  I-385 N @ Exit 31
+http://8.15.251.55:1935/rtplive/30110/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30110
+coordinates
+-82.279359
+34.763943
+Greenville TMC
+district : 03
+111:  I-385 N @ MM 31
+http://8.15.251.56:1935/rtplive/30111/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30111
+coordinates
+-82.286505
+34.754857
+Greenville TMC
+district : 03
+112:  I-385 S @ I-185 (1)
+http://8.15.251.57:1935/rtplive/30112/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.57:1935/rtplive/30112
+coordinates
+-82.286505
+34.754857
+Greenville TMC
+district : 03
+113:  I-385 S @ I-185 (2)
+http://8.15.251.55:1935/rtplive/30113/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.55:1935/rtplive/30113
+coordinates
+-82.282304
+34.748603
+Greenville TMC
+district : 03
+114:  I-385 S @ MM 29.5
+http://8.15.251.56:1935/rtplive/30114/playlist.m3u8
+SCDOT
+Greenville
+rtmp://8.15.251.56:1935/rtplive/30114
+coordinates
+-80.987057
+34.905101
+Rock Hill TMC
+district : 04
+1:  I-77 S @ MM 76.3
+http://8.15.251.57:1935/rtplive/40001/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.57:1935/rtplive/40001
+coordinates
+-80.982656
+34.913641
+Rock Hill TMC
+district : 04
+2:  I-77 S @ MM 77
+http://8.15.251.55:1935/rtplive/40002/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40002
+coordinates
+-80.977158
+34.922827
+Rock Hill TMC
+district : 04
+3:  I-77 N @ MM 77.7
+http://8.15.251.56:1935/rtplive/40003/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40003
+coordinates
+-80.973144
+34.931971
+Rock Hill TMC
+district : 04
+4:  I-77 S @ MM 78.4
+http://8.15.251.57:1935/rtplive/40004/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.57:1935/rtplive/40004
+coordinates
+-80.97204
+34.940096
+Rock Hill TMC
+district : 04
+5:  I-77 N @ MM 79
+http://8.15.251.55:1935/rtplive/40005/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40005
+coordinates
+-80.976984
+34.950181
+Rock Hill TMC
+district : 04
+6:  I-77 S @ MM 79.7
+http://8.15.251.56:1935/rtplive/40006/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40006
+coordinates
+-80.980426
+34.959793
+Rock Hill TMC
+district : 04
+7:  I-77 N @ MM 80.3
+http://8.15.251.57:1935/rtplive/40007/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.57:1935/rtplive/40007
+coordinates
+-80.98291
+34.965695
+Rock Hill TMC
+district : 04
+8:  I-77 N @ MM 80.8
+http://8.15.251.55:1935/rtplive/40008/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40008
+coordinates
+-80.986104
+34.973151
+Rock Hill TMC
+district : 04
+9:  I-77 N @ MM 81.4 (Cherry Rd)
+http://8.15.251.56:1935/rtplive/40009/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40009
+coordinates
+-80.987227
+34.975784
+Rock Hill TMC
+district : 04
+10:  I-77 N @ MM 81.6
+http://8.15.251.57:1935/rtplive/40010/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.57:1935/rtplive/40010
+coordinates
+-80.9809
+34.991844
+Rock Hill TMC
+district : 04
+11:  I-77 S @ MM 82.8
+http://8.15.251.55:1935/rtplive/40011/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40011
+coordinates
+-80.976387
+34.998471
+Rock Hill TMC
+district : 04
+12:  I-77 S @ MM 83.3
+http://8.15.251.56:1935/rtplive/40012/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40012
+coordinates
+-80.973309
+35.001882
+Rock Hill TMC
+district : 04
+13:  I-77 N @ MM 83.9
+http://8.15.251.57:1935/rtplive/40013/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.57:1935/rtplive/40013
+coordinates
+-80.970517
+35.009585
+Rock Hill TMC
+district : 04
+14:  I-77 N @ MM 84.1
+http://8.15.251.55:1935/rtplive/40014/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40014
+coordinates
+-80.969264
+35.018691
+Rock Hill TMC
+district : 04
+15:  I-77 S @ MM 84.8 (Entrance to Weigh Station)
+http://8.15.251.56:1935/rtplive/40015/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40015
+coordinates
+-80.96532
+35.028204
+Rock Hill TMC
+district : 04
+16:  I-77 S @ MM 85.5
+http://8.15.251.57:1935/rtplive/40016/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.57:1935/rtplive/40016
+coordinates
+-80.961768
+35.033823
+Rock Hill TMC
+district : 04
+17:  I-77 S @ MM 85.9
+http://8.15.251.55:1935/rtplive/40017/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40017
+coordinates
+-80.960048
+35.043224
+Rock Hill TMC
+district : 04
+18:  I-77 S @ MM 86.6
+http://8.15.251.56:1935/rtplive/40018/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40018
+coordinates
+-80.958153
+35.052623
+Rock Hill TMC
+district : 04
+19:  I-77 N @ MM 87.3
+http://8.15.251.57:1935/rtplive/40019/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.57:1935/rtplive/40019
+coordinates
+-80.956616
+35.060832
+Rock Hill TMC
+district : 04
+20:  I-77 S @ MM 87.8 (Gold Hill Rd Overpass)
+http://8.15.251.55:1935/rtplive/40020/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40020
+coordinates
+-80.949925
+35.070277
+Rock Hill TMC
+district : 04
+21:  I-77 S @ MM 88.6
+http://8.15.251.56:1935/rtplive/40021/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40021
+coordinates
+-80.943994
+35.078192
+Rock Hill TMC
+district : 04
+22:  I-77 S @ MM 89.2
+http://8.15.251.57:1935/rtplive/40022/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.57:1935/rtplive/40022
+coordinates
+-80.940101
+35.083375
+Rock Hill TMC
+district : 04
+23:  I-77 S @ MM 90
+http://8.15.251.55:1935/rtplive/40023/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40023
+coordinates
+-80.932222
+35.099605
+Rock Hill TMC
+district : 04
+25:  I-77 S @ MM 90.8 (State Line)
+http://8.15.251.56:1935/rtplive/40025/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40025
+coordinates
+-80.984998
+34.985846
+Rock Hill TMC
+district : 04
+27:  I-77 S @ MM 82.4
+http://8.15.251.57:1935/rtplive/40027/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.57:1935/rtplive/40027
+coordinates
+-80.970972
+34.935109
+Rock Hill TMC
+district : 04
+28:  I-77 N @ MM 78.6 (Dave Lyle Blvd Exit Ramp)
+http://8.15.251.55:1935/rtplive/40028/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40028
+coordinates
+-80.932702
+35.092928
+Rock Hill TMC
+district : 04
+30:  I-77 N @ MM 90.5
+http://8.15.251.56:1935/rtplive/40030/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40030
+coordinates
+-80.931207
+35.104171
+Rock Hill TMC
+district : 04
+31:  I-77 S @ MM 91(State Line)
+http://8.15.251.57:1935/rtplive/40031/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.57:1935/rtplive/40031
+coordinates
+-80.98873
+34.978334
+Rock Hill TMC
+district : 04
+32:  I-77 S @ MM 81.8
+http://8.15.251.55:1935/rtplive/40032/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40032
+coordinates
+-80.967941
+35.023965
+Rock Hill TMC
+district : 04
+33:  I-77 N @ MM 85.9
+http://8.15.251.56:1935/rtplive/40033/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40033
+coordinates
+-81.818541
+35.043629
+Gaffney TMC
+district : 04
+50:  I-85 S @ MM 82.9
+0
+http://8.15.251.57:1935/rtplive/40050/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.57:1935/rtplive/40050
+coordinates
+-81.808145
+35.047823
+Gaffney TMC
+district : 04
+51:  I-85 S @ MM 83.7
+1
+http://8.15.251.55:1935/rtplive/40051/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.55:1935/rtplive/40051
+coordinates
+-81.789494
+35.055507
+Gaffney TMC
+district : 04
+52:  I-85 S @ MM 85.1
+2
+http://8.15.251.56:1935/rtplive/40052/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.56:1935/rtplive/40052
+coordinates
+-81.777298
+35.061979
+Gaffney TMC
+district : 04
+53:  I-85 S @ MM 85.9 
+3
+http://8.15.251.57:1935/rtplive/40053/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.57:1935/rtplive/40053
+coordinates
+-81.760953
+35.071765
+Gaffney TMC
+district : 04
+54:  I-85 S @ MM 87
+4
+http://8.15.251.55:1935/rtplive/40054/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.55:1935/rtplive/40054
+coordinates
+-81.748073
+35.074285
+Gaffney TMC
+district : 04
+55:  I-85 S @ MM 87.9
+5
+http://8.15.251.56:1935/rtplive/40055/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.56:1935/rtplive/40055
+coordinates
+-81.72918
+35.076856
+Gaffney TMC
+district : 04
+56:  I-85 S @ MM 88.9
+6
+http://8.15.251.57:1935/rtplive/40056/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.57:1935/rtplive/40056
+coordinates
+-81.720233
+35.078578
+Gaffney TMC
+district : 04
+57:  I-85 S @ MM 89.4
+7
+http://8.15.251.55:1935/rtplive/40057/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.55:1935/rtplive/40057
+coordinates
+-81.705999
+35.08294
+Gaffney TMC
+district : 04
+58:  I-85 S @ MM 90
+8
+http://8.15.251.56:1935/rtplive/40058/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.56:1935/rtplive/40058
+coordinates
+-81.692511
+35.090328
+Gaffney TMC
+district : 04
+59:  I-85 S @ MM 91.2
+9
+http://8.15.251.57:1935/rtplive/40059/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.57:1935/rtplive/40059
+coordinates
+-81.684144
+35.095053
+Gaffney TMC
+district : 04
+60:  I-85 S @ MM 91.7
+http://8.15.251.55:1935/rtplive/40060/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.55:1935/rtplive/40060
+coordinates
+-81.668327
+35.097535
+Gaffney TMC
+district : 04
+61:  I-85 S @ MM 92.6
+http://8.15.251.56:1935/rtplive/40061/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.56:1935/rtplive/40061
+coordinates
+-81.657661
+35.096376
+Gaffney TMC
+district : 04
+62:  I-85 N @ MM 93.3
+http://8.15.251.57:1935/rtplive/40062/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.57:1935/rtplive/40062
+coordinates
+-81.641013
+35.102386
+Gaffney TMC
+district : 04
+63:  I-85 S @ MM 94.3
+http://8.15.251.55:1935/rtplive/40063/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.55:1935/rtplive/40063
+coordinates
+-81.625012
+35.103041
+Gaffney TMC
+district : 04
+64:  I-85 S @ MM 95.1
+http://8.15.251.56:1935/rtplive/40064/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.56:1935/rtplive/40064
+coordinates
+-81.618
+35.105086
+Gaffney TMC
+district : 04
+65:  I-85 S @ MM 95.6
+http://8.15.251.57:1935/rtplive/40065/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.57:1935/rtplive/40065
+coordinates
+-81.603001
+35.110087
+Gaffney TMC
+district : 04
+66:  I-85 S @ MM 96.1
+http://8.15.251.55:1935/rtplive/40066/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.55:1935/rtplive/40066
+coordinates
+-81.597979
+35.110388
+Gaffney TMC
+district : 04
+67:  I-85 S @ MM 96.6
+http://8.15.251.56:1935/rtplive/40067/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.56:1935/rtplive/40067
+coordinates
+-81.585195
+35.110997
+Gaffney TMC
+district : 04
+68:  I-85 N @ MM 97.6
+http://8.15.251.57:1935/rtplive/40068/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.57:1935/rtplive/40068
+coordinates
+-81.569402
+35.12299
+Gaffney TMC
+district : 04
+69:  I-85 S @ MM 98.6
+http://8.15.251.55:1935/rtplive/40069/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.55:1935/rtplive/40069
+coordinates
+-81.551783
+35.12908
+Gaffney TMC
+district : 04
+70:  I-85 S @ MM 99.8
+http://8.15.251.56:1935/rtplive/40070/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.56:1935/rtplive/40070
+coordinates
+-81.533718
+35.133601
+Gaffney TMC
+district : 04
+71:  I-85 S @ MM 100.7
+http://8.15.251.57:1935/rtplive/40071/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.57:1935/rtplive/40071
+coordinates
+-81.524106
+35.135967
+Gaffney TMC
+district : 04
+72:  I-85 S @ MM 101.3
+http://8.15.251.55:1935/rtplive/40072/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.55:1935/rtplive/40072
+coordinates
+-81.509201
+35.140998
+Gaffney TMC
+district : 04
+73:  I-85 S @ MM 102.2
+http://8.15.251.56:1935/rtplive/40073/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.56:1935/rtplive/40073
+coordinates
+-81.494098
+35.149065
+Gaffney TMC
+district : 04
+74:  I-85 S @ MM 103.4
+http://8.15.251.57:1935/rtplive/40074/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.57:1935/rtplive/40074
+coordinates
+-81.47704
+35.159313
+Gaffney TMC
+district : 04
+75:  I-85 S @ MM 104.4
+http://8.15.251.55:1935/rtplive/40075/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.55:1935/rtplive/40075
+coordinates
+-81.46453
+35.158937
+Gaffney TMC
+district : 04
+76:  I-85 N @ MM 105.2
+http://8.15.251.56:1935/rtplive/40076/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.56:1935/rtplive/40076
+coordinates
+-81.451141
+35.164846
+Gaffney TMC
+district : 04
+77:  I-85 S @ MM 106.1
+http://8.15.251.57:1935/rtplive/40077/playlist.m3u8
+SCDOT
+Gaffney
+rtmp://8.15.251.57:1935/rtplive/40077
+coordinates
+-80.975066
+34.98416
+Rock Hill TMC
+district : 04
+301:  US 21 N @ Catawba River
+http://8.15.251.55:1935/rtplive/40301/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.55:1935/rtplive/40301
+coordinates
+-80.957005
+35.019386
+Rock Hill TMC
+district : 04
+302:  US 21 N @ SC 160 - Peach Stand
+http://8.15.251.56:1935/rtplive/40302/playlist.m3u8
+SCDOT
+Rock Hill
+rtmp://8.15.251.56:1935/rtplive/40302
+coordinates
+-79.062775
+33.845627
+Myrtle Beach TMC
+district : 05
+1:  US 501 N @ 16th Ave
+http://8.15.251.55:1935/rtplive/50001/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50001
+coordinates
+-79.058746
+33.831668
+Myrtle Beach TMC
+district : 05
+2:  US 501 S @ US 701
+http://8.15.251.55:1935/rtplive/50002/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50002
+coordinates
+-79.01484
+33.807244
+Myrtle Beach TMC
+district : 05
+3:  US 501 N @ SC 544
+http://8.15.251.55:1935/rtplive/50003/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50003
+coordinates
+-78.9965
+33.790682
+Myrtle Beach TMC
+district : 05
+4:  US 501 N @ Singleton Ridge Rd
+http://8.15.251.57:1935/rtplive/50004/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.57:1935/rtplive/50004
+coordinates
+-78.982832
+33.775376
+Myrtle Beach TMC
+district : 05
+5:  US 501 N @ Gardner Lacy Rd
+http://8.15.251.55:1935/rtplive/50005/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50005
+coordinates
+-78.977701
+33.768852
+Myrtle Beach TMC
+district : 05
+6:  US 501 S (South of Gardner Lacy Rd)
+http://8.15.251.55:1935/rtplive/50006/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50006
+coordinates
+-78.967042
+33.757967
+Myrtle Beach TMC
+district : 05
+7:  US 501 N @ Carolina Forest Blvd
+http://8.15.251.57:1935/rtplive/50007/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.57:1935/rtplive/50007
+coordinates
+-78.958568
+33.748562
+Myrtle Beach TMC
+district : 05
+8:  US 501 N @ Waccamaw Pines
+http://8.15.251.55:1935/rtplive/50008/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50008
+coordinates
+-78.960462
+33.684654
+Myrtle Beach TMC
+district : 05
+9:  US 17 S @ SC 707 (Backgate)
+http://8.15.251.56:1935/rtplive/50009/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.56:1935/rtplive/50009
+coordinates
+-78.913635
+33.709424
+Myrtle Beach TMC
+district : 05
+10:  US 17 S @ US 501 N
+http://8.15.251.55:1935/rtplive/50010/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50010
+coordinates
+-78.805666
+33.767134
+Myrtle Beach TMC
+district : 05
+11:  US 17 N @ US 17 Business
+http://8.15.251.55:1935/rtplive/50011/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50011
+coordinates
+-78.792109
+33.7791
+Myrtle Beach TMC
+district : 05
+12:  US 17 S @ Lake Arrowhead Rd
+http://8.15.251.55:1935/rtplive/50012/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50012
+coordinates
+-78.98111
+33.650496
+Myrtle Beach TMC
+district : 05
+13:  US 17 Median @ SC 544
+http://8.15.251.57:1935/rtplive/50013/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.57:1935/rtplive/50013
+coordinates
+-79.003852
+33.621653
+Myrtle Beach TMC
+district : 05
+14:  US 17 S @ Glenns Bay/Holmstown Rd
+http://8.15.251.55:1935/rtplive/50014/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50014
+coordinates
+-79.153541
+33.920711
+Myrtle Beach TMC
+district : 05
+15:  US 501 N @ SC 22
+http://8.15.251.55:1935/rtplive/50015/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50015
+coordinates
+-78.921051
+33.714446
+Myrtle Beach TMC
+district : 05
+16:  US 501 N @ Intercoastal Waterway
+http://8.15.251.55:1935/rtplive/50016/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50016
+coordinates
+-78.900701
+33.713227
+Myrtle Beach TMC
+district : 05
+17:  US 17 N @ 10th Ave (Joe White Blvd)
+http://8.15.251.55:1935/rtplive/50017/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50017
+coordinates
+-78.880936
+33.720392
+Myrtle Beach TMC
+district : 05
+18:  US 17 N @ 29th Avenue
+http://8.15.251.55:1935/rtplive/50018/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50018
+coordinates
+-78.773054
+33.78763
+Myrtle Beach TMC
+district : 05
+19:  US 17 N @ SC 22
+http://8.15.251.57:1935/rtplive/50019/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.57:1935/rtplive/50019
+coordinates
+-79.040496
+33.816233
+Myrtle Beach TMC
+district : 05
+20:  US 501 S @ Waccamaw River
+http://8.15.251.55:1935/rtplive/50020/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50020
+coordinates
+-79.004881
+33.799146
+Myrtle Beach TMC
+district : 05
+21:  US 501 S @ University Blvd (Coastal Carolina)
+http://8.15.251.55:1935/rtplive/50021/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50021
+coordinates
+-78.973136
+33.763774
+Myrtle Beach TMC
+district : 05
+22:  US 501 S (North of Carolina Forest)
+http://8.15.251.57:1935/rtplive/50022/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.57:1935/rtplive/50022
+coordinates
+-78.950166
+33.739171
+Myrtle Beach TMC
+district : 05
+23:  US 501 N @ SC 31
+http://8.15.251.55:1935/rtplive/50023/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50023
+coordinates
+-78.945658
+33.734437
+Myrtle Beach TMC
+district : 05
+24:  US 501 N @ Forestbrook Rd (MB TMC)
+http://8.15.251.55:1935/rtplive/50024/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50024
+coordinates
+-78.934722
+33.72378
+Myrtle Beach TMC
+district : 05
+25:  US 501 N @ Burcale Rd
+http://8.15.251.55:1935/rtplive/50025/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50025
+coordinates
+-78.929815
+33.720426
+Myrtle Beach TMC
+district : 05
+26:  US 501 S @ Burcale R
+http://8.15.251.55:1935/rtplive/50026/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50026
+coordinates
+-78.929815
+33.720426
+Myrtle Beach TMC
+district : 05
+27:  US 501 N @ George Bishop
+http://8.15.251.55:1935/rtplive/50027/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50027
+coordinates
+-78.953129
+33.741569
+Myrtle Beach TMC
+district : 05
+28:  George Bishop @ US 501
+http://8.15.251.55:1935/rtplive/50028/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50028
+coordinates
+-79.000061
+33.673739
+Myrtle Beach TMC
+district : 05
+29:  SC 544 @ Dick Pond Rd.
+http://8.15.251.56:1935/rtplive/50029/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.56:1935/rtplive/50029
+coordinates
+-78.992436
+33.656914
+Myrtle Beach TMC
+district : 05
+30:  SC 544 @ Windsor Bay Rd.
+http://8.15.251.56:1935/rtplive/50030/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.56:1935/rtplive/50030
+coordinates
+-78.966417
+33.674303
+Myrtle Beach TMC
+district : 05
+31:  US 17 N @ MM 193
+http://8.15.251.56:1935/rtplive/50031/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.56:1935/rtplive/50031
+coordinates
+-78.869433
+33.728172
+Myrtle Beach TMC
+district : 05
+32:  US 17 N @ 38th Ave N
+http://8.15.251.56:1935/rtplive/50032/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.56:1935/rtplive/50032
+coordinates
+-78.931478
+33.703525
+Myrtle Beach TMC
+district : 05
+33:  US 17 BP @ Harrelson Blvd
+http://8.15.251.56:1935/rtplive/50033/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.56:1935/rtplive/50033
+coordinates
+-79.031494
+33.811947
+Myrtle Beach TMC
+district : 05
+34:  US 501 N @ Academy Dr.
+http://8.15.251.57:1935/rtplive/50034/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.57:1935/rtplive/50034
+coordinates
+-79.043875
+33.555839
+Myrtle Beach TMC
+district : 05
+35:  US 17 N @ Bellamy Ave.
+http://8.15.251.56:1935/rtplive/50035/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.56:1935/rtplive/50035
+coordinates
+-78.623347
+33.872253
+Myrtle Beach TMC
+district : 05
+37:  US 17 N @ Bayshore Dr.
+http://8.15.251.56:1935/rtplive/50037/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.56:1935/rtplive/50037
+coordinates
+-79.83877
+34.197734
+Florence TMC
+district : 05
+201:  I-95 S @ I-20 E (MM 160)
+http://8.15.251.55:1935/rtplive/50201/playlist.m3u8
+SCDOT
+Florence
+rtmp://8.15.251.55:1935/rtplive/50201
+coordinates
+-79.816954
+34.217454
+Florence TMC
+district : 05
+202:  I-95 S @ MM 162.5
+http://8.15.251.55:1935/rtplive/50202/playlist.m3u8
+SCDOT
+Florence
+rtmp://8.15.251.55:1935/rtplive/50202
+coordinates
+-79.79933
+34.230132
+Florence TMC
+district : 05
+203:  I-95 S @ MM 164 (US 52)
+http://8.15.251.55:1935/rtplive/50203/playlist.m3u8
+SCDOT
+Florence
+rtmp://8.15.251.55:1935/rtplive/50203
+coordinates
+-79.788258
+34.239223
+Florence TMC
+district : 05
+204:  I-95 S @ Exit 165
+http://8.15.251.55:1935/rtplive/50204/playlist.m3u8
+SCDOT
+Florence
+rtmp://8.15.251.55:1935/rtplive/50204
+coordinates
+-79.762553
+34.249951
+Florence TMC
+district : 05
+205:  I-95 N @ MM 167
+http://8.15.251.55:1935/rtplive/50205/playlist.m3u8
+SCDOT
+Florence
+rtmp://8.15.251.55:1935/rtplive/50205
+coordinates
+-79.732332
+34.264696
+Florence TMC
+district : 05
+206:  I-95 N @ Exit 169 (TV Road)
+http://8.15.251.55:1935/rtplive/50206/playlist.m3u8
+SCDOT
+Florence
+rtmp://8.15.251.55:1935/rtplive/50206
+coordinates
+-79.703323
+34.268833
+Florence TMC
+district : 05
+207:  I-95 N @ Exit 170 (Williston Rd)
+http://8.15.251.55:1935/rtplive/50207/playlist.m3u8
+SCDOT
+Florence
+rtmp://8.15.251.55:1935/rtplive/50207
+coordinates
+-79.833639
+34.204661
+Florence TMC
+district : 05
+208:  I-95 S @ Hoffmeyer Rd
+http://8.15.251.57:1935/rtplive/50208/playlist.m3u8
+SCDOT
+Florence
+rtmp://8.15.251.57:1935/rtplive/50208
+coordinates
+-79.864369
+33.177786
+Florence TMC
+district : 05
+209:  I-95 S @ MM 159 (Pine Needles)
+http://8.15.251.57:1935/rtplive/50209/playlist.m3u8
+SCDOT
+Florence
+rtmp://8.15.251.57:1935/rtplive/50209
+coordinates
+-79.202858
+33.99457
+Myrtle Beach TMC
+district : 05
+210:  US 501 N @ Main St. (Aynor)
+http://8.15.251.55:1935/rtplive/50210/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50210
+coordinates
+-79.332654
+34.487601
+Myrtle Beach TMC
+district : 05
+301:  I-95 S @ MM 197
+http://8.15.251.55:1935/rtplive/50301/playlist.m3u8
+SCDOT
+Myrtle Beach
+rtmp://8.15.251.55:1935/rtplive/50301
+coordinates
+-80.151786
+33.040807
+Charleston TMC
+district : 06
+2:  I-26 E @ MM 199
+http://8.15.251.56:1935/rtplive/60002/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60002
+coordinates
+-80.144323
+33.034354
+Charleston TMC
+district : 06
+3:  I-26 W @ MM 199
+http://8.15.251.57:1935/rtplive/60003/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60003
+coordinates
+-80.139573
+33.02969
+Charleston TMC
+district : 06
+4:  I-26 W @ MM 199.5
+http://8.15.251.55:1935/rtplive/60004/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60004
+coordinates
+-80.129613
+33.022253
+Charleston TMC
+district : 06
+5:  I-26 W @ MM 200.5
+http://8.15.251.56:1935/rtplive/60005/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60005
+coordinates
+-80.124101
+33.018856
+Charleston TMC
+district : 06
+6:  I-26 W @ MM 201 (Royal Road)
+http://8.15.251.57:1935/rtplive/60006/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60006
+coordinates
+-80.113266
+33.012297
+Charleston TMC
+district : 06
+7:  I-26 W @ MM 201.5 (Rest Area)
+http://8.15.251.55:1935/rtplive/60007/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60007
+coordinates
+-80.102127
+33.005382
+Charleston TMC
+district : 06
+8:  I-26 W @ MM 202
+http://8.15.251.56:1935/rtplive/60008/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60008
+coordinates
+-80.094024
+32.998987
+Charleston TMC
+district : 06
+9:  I-26 W @ MM 203 (College Park Road)
+http://8.15.251.57:1935/rtplive/60009/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60009
+coordinates
+-80.086876
+32.992301
+Charleston TMC
+district : 06
+10:  I-26 W @ MM 203.5 (Rest Area)
+http://8.15.251.55:1935/rtplive/60010/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60010
+coordinates
+-80.083189
+32.98883
+Charleston TMC
+district : 06
+12:  I-26 W @ MM 204
+http://8.15.251.56:1935/rtplive/60012/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60012
+coordinates
+-80.0767
+32.978417
+Charleston TMC
+district : 06
+13:  I-26 W @ MM 205
+http://8.15.251.57:1935/rtplive/60013/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60013
+coordinates
+-80.074972
+32.968486
+Charleston TMC
+district : 06
+14:  I-26 W @ MM 205.5
+http://8.15.251.55:1935/rtplive/60014/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60014
+coordinates
+-80.07239
+32.962347
+Charleston TMC
+district : 06
+15:  I-26 W @ MM 206
+http://8.15.251.56:1935/rtplive/60015/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60015
+coordinates
+-80.065456
+32.955519
+Charleston TMC
+district : 06
+16:  I-26 W @ MM 207
+http://8.15.251.57:1935/rtplive/60016/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60016
+coordinates
+-80.058328
+32.948926
+Charleston TMC
+district : 06
+17:  I-26 W @ MM 208
+http://8.15.251.55:1935/rtplive/60017/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60017
+coordinates
+-80.050963
+32.941417
+Charleston TMC
+district : 06
+18:  I-26 W @ MM 208 (US 52 Connector)
+http://8.15.251.56:1935/rtplive/60018/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60018
+coordinates
+-80.046866
+32.934394
+Charleston TMC
+district : 06
+19:  I-26 W @ MM 209 (Ashl Phos)
+http://8.15.251.57:1935/rtplive/60019/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60019
+coordinates
+-80.039781
+32.923764
+Charleston TMC
+district : 06
+20:  I-26 W @ MM 210
+http://8.15.251.55:1935/rtplive/60020/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60020
+coordinates
+-80.037771
+32.921678
+Charleston TMC
+district : 06
+21:  I-26 W @ MM 210.5 (Midland Park)
+http://8.15.251.56:1935/rtplive/60021/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60021
+coordinates
+-80.019293
+32.881068
+Charleston TMC
+district : 06
+22:  I-26 E @ MM 212
+http://8.15.251.57:1935/rtplive/60022/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60022
+coordinates
+-80.018858
+32.885308
+Charleston TMC
+district : 06
+23:  I-26 W @ I-526
+http://8.15.251.55:1935/rtplive/60023/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60023
+coordinates
+-80.030331
+32.91507
+Charleston TMC
+district : 06
+24:  I-26 W @ MM 210 (Eagle Drive)
+http://8.15.251.56:1935/rtplive/60024/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60024
+coordinates
+-79.978009
+32.893099
+Charleston TMC
+district : 06
+25:  I-526 E @ MM 20 (Virginia Ave)
+http://8.15.251.57:1935/rtplive/60025/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60025
+coordinates
+-79.966556
+32.891487
+Charleston TMC
+district : 06
+26:  I-526 E @ MM 20.5 (Don Holt )
+http://8.15.251.55:1935/rtplive/60026/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60026
+coordinates
+-79.966084
+32.891692
+Charleston TMC
+district : 06
+27:  I-526 W @ MM 20.5 (Don Holt (Up))
+http://8.15.251.56:1935/rtplive/60027/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60027
+coordinates
+-79.961777
+32.891086
+Charleston TMC
+district : 06
+28:  I-526 W @ MM 21 (Don Holt (Top))
+http://8.15.251.57:1935/rtplive/60028/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60028
+coordinates
+-79.958601
+32.890643
+Charleston TMC
+district : 06
+29:  I-526 W @ MM 21.5 (Don Holt (Down))
+http://8.15.251.55:1935/rtplive/60029/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60029
+coordinates
+-79.937768
+32.883929
+Charleston TMC
+district : 06
+30:  I-526 W @ MM 23 (Clements Ferry Road)
+http://8.15.251.56:1935/rtplive/60030/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60030
+coordinates
+-80.005683
+32.868104
+Charleston TMC
+district : 06
+31:  I-26 E @ MM 214 (Montague Ave)
+http://8.15.251.57:1935/rtplive/60031/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60031
+coordinates
+-79.994572
+32.861708
+Charleston TMC
+district : 06
+32:  I-26 W @ MM 214.5 (Bennett Yard Overpass)
+http://8.15.251.55:1935/rtplive/60032/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60032
+coordinates
+-79.987906
+32.853447
+Charleston TMC
+district : 06
+33:  I-26 E @ MM 215 (Dorchester Rd)
+http://8.15.251.56:1935/rtplive/60033/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60033
+coordinates
+-79.979883
+32.843233
+Charleston TMC
+district : 06
+34:  I-26 E @ MM 216 (Cosgrove Ave)
+http://8.15.251.57:1935/rtplive/60034/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60034
+coordinates
+-80.024211
+32.903331
+Charleston TMC
+district : 06
+36:  I-26 E @ MM 211
+http://8.15.251.56:1935/rtplive/60036/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60036
+coordinates
+-80.018954
+32.892236
+Charleston TMC
+district : 06
+37:  I-26 E @ MM 211.5
+http://8.15.251.57:1935/rtplive/60037/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60037
+coordinates
+-80.011807
+32.87193
+Charleston TMC
+district : 06
+38:  I-26 E @ MM 213
+http://8.15.251.55:1935/rtplive/60038/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60038
+coordinates
+-80.031995
+32.789618
+Charleston TMC
+district : 06
+39:  US 17 S @ I-526 MM 10
+http://8.15.251.56:1935/rtplive/60039/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60039
+coordinates
+-80.036521
+32.808998
+Charleston TMC
+district : 06
+40:  I-526 E @ MM 11 (Ash. Rv. Rd)
+http://8.15.251.57:1935/rtplive/60040/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60040
+coordinates
+-80.030567
+32.819776
+Charleston TMC
+district : 06
+41:  I-526 E @ MM 11.5 (Hwy 61)
+http://8.15.251.55:1935/rtplive/60041/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60041
+coordinates
+-80.027066
+32.868382
+Charleston TMC
+district : 06
+42:  I-526 E @  MM 16 (International Blvd)
+http://8.15.251.56:1935/rtplive/60042/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60042
+coordinates
+-80.011478
+32.888056
+Charleston TMC
+district : 06
+43:  I-526 E @ MM 18 (Rivers Ave)
+http://8.15.251.57:1935/rtplive/60043/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60043
+coordinates
+-80.001281
+32.89313
+Charleston TMC
+district : 06
+44:  I-526 E @ MM 19 (N. Rhett Ave)
+http://8.15.251.55:1935/rtplive/60044/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60044
+coordinates
+-80.01831
+32.841667
+Charleston TMC
+district : 06
+45:  I-526 E @ MM 14 (Leeds Ave)
+http://8.15.251.56:1935/rtplive/60045/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60045
+coordinates
+-79.930157
+32.8778
+Charleston TMC
+district : 06
+46:  I-526 E @ Exit 23
+http://8.15.251.57:1935/rtplive/60046/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60046
+coordinates
+-79.918014
+32.871747
+Charleston TMC
+district : 06
+47:  I-526 W @ MM 24 (Daniel Island)
+http://8.15.251.55:1935/rtplive/60047/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60047
+coordinates
+-79.883791
+32.851631
+Charleston TMC
+district : 06
+48:  I-526 E @  MM 27 (Wando Bridge)
+http://8.15.251.56:1935/rtplive/60048/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60048
+coordinates
+-79.863194
+32.839697
+Charleston TMC
+district : 06
+49:  I-526 E @ MM 28 (Wando Br)
+http://8.15.251.57:1935/rtplive/60049/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60049
+coordinates
+-79.849848
+32.813598
+Charleston TMC
+district : 06
+50:  I-526 E @ MM 30 (US 17)
+0
+http://8.15.251.55:1935/rtplive/60050/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60050
+coordinates
+-80.020803
+32.854236
+Charleston TMC
+district : 06
+52:  I-526 E @ MM 15 (Dorchester Rd)
+2
+http://8.15.251.56:1935/rtplive/60052/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60052
+coordinates
+-81.220708
+33.961564
+Charleston TMC
+district : 06
+53:  I-526 E @ MM 10.5
+3
+http://8.15.251.55:1935/rtplive/60053/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60053
+coordinates
+-79.986958
+32.847056
+Charleston TMC
+district : 06
+54:  I-526 W @ MM 15.5
+4
+http://8.15.251.55:1935/rtplive/60054/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60054
+coordinates
+-81.231419
+33.9586
+Charleston TMC
+district : 06
+55:  I-526 W @ MM 13.5
+5
+http://8.15.251.55:1935/rtplive/60055/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60055
+coordinates
+-79.986427
+32.847168
+Charleston TMC
+district : 06
+58:  I-26 E @ MM 215.5
+8
+http://8.15.251.55:1935/rtplive/60058/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60058
+coordinates
+-79.95278
+32.812178
+Charleston TMC
+district : 06
+60:  I-26 E @ MM 219 ( Morrison/East Bay St)
+http://8.15.251.57:1935/rtplive/60060/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60060
+coordinates
+-79.949352
+32.809111
+Charleston TMC
+district : 06
+61:  I-26 W @  MM 220 (Romney St)
+http://8.15.251.55:1935/rtplive/60061/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60061
+coordinates
+-79.947861
+32.803791
+Charleston TMC
+district : 06
+62:  I-26 E. @ MM 220 (Ravenel Bridge Entrance)
+http://8.15.251.56:1935/rtplive/60062/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60062
+coordinates
+-79.942746
+32.797715
+Charleston TMC
+district : 06
+63:  I-26 W @ MM 220 (US 17N)
+http://8.15.251.57:1935/rtplive/60063/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60063
+coordinates
+-79.942174
+32.803862
+Charleston TMC
+district : 06
+64:  US 17 N in Charleston
+http://8.15.251.55:1935/rtplive/60064/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60064
+coordinates
+-79.935563
+32.805128
+Charleston TMC
+district : 06
+65:  US 17 S in Charleston
+http://8.15.251.56:1935/rtplive/60065/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60065
+coordinates
+-79.926448
+32.804555
+Charleston TMC
+district : 06
+66:  US 17 S in Charleston (Arthur Ravenel Jr. Brdg)
+http://8.15.251.57:1935/rtplive/60066/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60066
+coordinates
+-79.919735
+32.803687
+Charleston TMC
+district : 06
+67:  US 17 S in Mt Pleasant (Arthur Ravenel Jr. Brdg)
+http://8.15.251.55:1935/rtplive/60067/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60067
+coordinates
+-79.910297
+32.802472
+Charleston TMC
+district : 06
+68:  US 17 S in Mt Pleasant (Arthur Ravenel Jr. Brdg)
+http://8.15.251.56:1935/rtplive/60068/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60068
+coordinates
+-79.902605
+32.801079
+Charleston TMC
+district : 06
+69:  US 17 S @ Mt Pleasant Entrance
+http://8.15.251.57:1935/rtplive/60069/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60069
+coordinates
+-79.895369
+32.802761
+Charleston TMC
+district : 06
+70:  US 17 S @ Mt Pleasant (Holiday Inn)
+http://8.15.251.55:1935/rtplive/60070/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60070
+coordinates
+-79.897047
+32.797805
+Charleston TMC
+district : 06
+71:  Coleman @ Patriots Point
+http://8.15.251.56:1935/rtplive/60071/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60071
+coordinates
+-80.076579
+32.979312
+Charleston TMC
+district : 06
+95:  I-26 @ US 78 (Exit 205)
+http://8.15.251.56:1935/rtplive/60095/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.56:1935/rtplive/60095
+coordinates
+-80.148811
+33.037727
+Charleston TMC
+district : 06
+96:  I-26 E @ MM 199 (US 17A (N. Charleston))
+http://8.15.251.57:1935/rtplive/60096/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.57:1935/rtplive/60096
+coordinates
+-80.159968
+33.034283
+Charleston TMC
+district : 06
+97:  US 17A @ BGMyer Pkwy (Summerville)
+http://8.15.251.55:1935/rtplive/60097/playlist.m3u8
+SCDOT
+Charleston
+rtmp://8.15.251.55:1935/rtplive/60097
+coordinates
+-79.792833
+32.794167
+Charleston Beaches TMC
+district : 06
+1000:  Hwy 517/703 (Isle of Palms Connector)
+http://8.15.251.55:1935/rtplive/61000/playlist.m3u8
+SCDOT
+Charleston Beaches
+rtmp://8.15.251.55:1935/rtplive/61000
+
+Beaufort Webcams
+http://webgis.bcgov.net/camerasite/index.html
+To open a specific Beaufort area traffic camera, click on camera icon on map or select from list on the left.
+
+charleston-sc-web-cams
+Charleston Webcams
+Charleston Traffic and Weather
+http://www.511sc.org/
+Click on the Charleston area camera icon on the map to see a list of over 30 specific locations that have webcams.
+
+Downtown Charleston
+http://www.charlestoncitymarina.com/index.php/marina-web-cam
+
+A live look at the marina located along the Ashley River in downtown Charleston.
+http://webcams.cofc.edu/
+Choose from nine campus cameras including the Cistern Yard webcam, the Craig Hall courtyard webcam, and the Physicians Promenade webcam.
+
+Edisto Beach
+http://www.southcarolinaparks.com/trip-planning-tools/photos-videos/webcams/edisto-beach-state-park/default.aspx
+The Edisto Beach State Park webcam shows the beach and Atlantic Ocean.
+
+Folly Beach
+http://surfchex.com/follybeach-web-cam.php
+This webcam, mounted on Folly Pier, rotates to give a beautiful view of the Atlantic Ocean.
+
+Isle of Palms
+http://www.carolinacoastsurfclub.org/surfcam.html
+Tune in to watch the surf roll in near the pier. WAS STUCK ON 12/01/16 -->
+
+http://www.jammercam.com/
+http://www.jammercam.com/newcam3.shtml http://www.jammercam.com/newcam4.shtml http://www.jammercam.com/newcam1.shtml http://www.jammercam.com/surfcam.shtml http://www.jammercam.com/newcam2.shtml
+The five Windjammer Beach Club's Jammer Cams allow you to follow all the action at the popular beach side club.
+
+Kiawah Island
+http://www.earthcam.com/usa/southcarolina/kiawahisland/
+This Kiawah Island webcam shows a view of shoreline and Atlantic Ocean.
+Mount Pleasant 
+ 
+http://coastalconservationleague.org/pelicam/
+A live webcam of the nesting seabirds at allows people to view the island's inhabitants in real time. 
+
+Sullivan's Island
+http://weather.weatherbug.com/weather-camera/?cam=FDSLN
+This still photo image from the top of the fire station is refreshed every 15 minutes.
+
+Clemson Webcams
+Clemson
+http://www.clemson.edu/webcams/
+33 campus cameras including the Lake Hartwell rowing boathouse web cam, the Fort Hill web cam, and three web cams that capture views of Tillman Hall.
+Pickens 
+ 
+http://www.southcarolinaparks.com/trip-planning-tools/photos-videos/webcams/table-rock-state-park/
+Watch nature live from this Table Rock State park web cam. 
+
+columbia-sc-web-cams
+Columbia Webcams
+Columbia Traffic
+http://www.511sc.org/
+Click on the Columbia area camera icon on the map to see a list of over 80 specific locations that have webcams.
+
+Downtown Columbia
+http://www.wistv.com/category/242020/wis-skycam-network-columbia
+This web cam is pointing west from 1111 Bull Street to capture the South Carolina State House and part of Columbia skyline.
+
+http://www.scstatehouse.gov/video/videopage.php?chamber=H
+Live broadcasts of the daily legislative sessions at the South Carolina State House.
+
+http://cricket.biol.sc.edu/cams/usc-sky-cam.html
+Mounted on the Coker Life Sciences Building this web cam overlooks Longstreet Theatre, the reflection pool near Thomas Cooper Library and the Capstone Building can be seen in the distance.
+http://cricket.biol.sc.edu/cams/mousseau-lab-cam.html
+
+See a live video feed of Tim Mousseau's Department of Biological Studies lab.
+http://cricket.biol.sc.edu/cams/usc-roach-cam.html
+See a shot of these bugs located in room 706 of the Coker Life Sciences Building.
+
+Lake Murray
+http://www.wistv.com/category/242215/wis-skyview-network-lake-murray
+The web cam is located on the south shore of the lake at Spences Point and points west-northwest.
+
+Edgefield Webcams 
+ http://www.exploreedgefield.com/webcam.htm
+The Edgefield web cam captures the view of the square where the Edgefield Confederate Monument is located. 
+
+Florence Webcams
+http://www.511sc.org/
+Click on the Florence area camera icon on the map to see a list of six specific locations that have webcams.
+
+Gaffney Webcams
+http://www.511sc.org/
+Click on the Gaffney area camera icon on the map to see a list of 15 specific locations along I-85 that have webcams.
+
+Georgetown Webcams
+Georgetown 
+ 
+http://www.northinlet.sc.edu/webcam/index.html
+The web cam shows the pier at Oyster Landing with view of Crab Haul Creek. 
+
+Murrrells Inlet
+http://www.tripsmarter.com/myrtle-beach/video/live-cams/dead-dog-saloon-live-cam-marshwalk
+This Murrells Inlet web cam captures a view of the restaurant's huge indoor/outdoor deck on the waterfront.
+
+greenville
+Greenville Webcams
+Greenville Traffic
+http://www.511sc.org/
+Click on one of the three Greenville area camera icons on the map to see a list of over 100 interstate locations that have webcams.
+Greenville
+
+http://www.bju.edu/about/campus-map/webcams/
+The Bob Jones University campus camera shows a live shot of front campus.
+
+http://weather.weatherbug.com/weather-camera/?cam=GRNST
+The webcam, mounted at the top of a building on Falls Street, gives a still picture of the Greenville skyline which refreshes every 15 minutes.
+
+http://facweb.furman.edu/~rbryson/dramadept/TheatreWebCam.html http://facweb.furman.edu/~rbryson/dramadept/SceneShopWebCam.html
+Follow the action of Furman University's Drama Department.
+
+http://www.earthcam.com/usa/southcarolina/greenville/?cam=giraffe_ext
+Scroll down for other webcams and archived videos of the giraffes.
+
+Hilton Head Island Webcams
+http://www.800beachme.com/hilton-head-island/webcam/
+
+Real time controllable view looking over Folly Field Beach.
+http://www.palmetto.coop/osprey-habitats/
+
+Web cam updates every 5 seconds and captures a shot of the nest which is located on Mathews Drive.
+http://saltydog.com/pages/webcams/
+Choose from 10 webcams including views of Calibogue Sound, the cafe and t-shirt factory.
+
+Myrtle Beach Webcams
+Myrtle Beach Traffic
+http://www.511sc.org/
+Click on the Myrtle Beach area camera icons on the map to see a list of over 20 locations that have webcams.
+
+Myrtle Beach
+http://www.earthcam.com/usa/southcarolina/myrtlebeach/
+Enjoy the view of the boardwalk, beach and surf in the heart of Myrtle Beach.
+
+http://98.101.204.124/cgi-bin/guestimage.html
+The web cam capture the live action at this popular Myrtle Beach entertainment complex.
+
+http://www.grandeshores.com/webcam-en.html
+Scroll down to view the beach and rear grounds.
+
+http://www.oceancreek.com/webcam/
+Two web cams capture images of the inlet and resort's pool.
+
+http://www.cityofmyrtlebeach.com/camera2.html
+The northern and southern views of Plyler Park are seen from two cams.
+
+North Myrtle Beach
+http://www.beachcove.com/webcam/
+Web cam has a view of the resort's pool plus the beach and ocean.
+http://www.explorenorthmyrtlebeach.com/web-cam/
+The web cam is mounted at the end of the pier and points towards the shore.
+
+Newberry Webcams
+http://www.wistv.com/category/242213/wis-skycam-network-newberry
+The web cam points west from 1303 Main Street and includes a glimpse of the Newberry Opera House.
+
+Orangeburg Webcams
+http://www.wistv.com/category/242214/wis-skycam-network-orangeburg
+Web cam is facing east from 400 Magnolia Street to show Claflin University's campus.
+
+http://www.orangeburg.sc.us/index.php?option=com_wrapper&view=wrapper&Itemid=359
+The web cam mounted at the garden's entrance road and refreshes every 15 seconds.
+
+http://www.orangeburg.sc.us/index.php?option=com_wrapper&view=wrapper&Itemid=394
+Mounted high to show portions of multiple holes, this web cam refreshes every 15 seconds.-->
+
+http://www.orangeburg.sc.us/index.php?option=com_wrapper&view=wrapper&Itemid=396
+Located near the terminal, the web cam refreshes every 15 seconds to show a section of the runway.
+
+Rock Hill Webcams
+http://www.winthrop.edu/visitors/secondary.aspx?id=3618
+Three campus cameras are available including the Campus Center web cam, the Leitner Wall web cam, and the West Center web cam.
+
+Spartanburg Webcams
+Spartanburg
+http://www.earthcam.com/usa/southcarolina/spartanburg/
+
+Live streaming views of Lawson's Fork Creek on the Pacolet River - viewers can enjoy the beauty of Glendale Shoals, while students use the camera to study and track the river conditions.
+http://weather.weatherbug.com/weather-camera/?cam=SPRTN
+A still photo image, from the top of Wild Ace Pizza, looks down at the Morgan Square clock tower and is refreshed every 15 minutes.
+
+Wellford
+http://www.earthcam.com/usa/southcarolina/wellford/?cam=bearcam
+Watch a grizzly bear and family of syrian brown bears rotate in and out of their shared exhibit.
+
+Sumter Webcams
+http://www.wistv.com/category/242212/wis-skyview-network-sumter
+Mounted on the tallest building in downtown Sumter, the web cam points to the west from 115 North Harvin Street and shows downtown including Tuomey Regional Medical Center and Sumter Opera House.
