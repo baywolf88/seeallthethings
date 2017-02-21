@@ -1,4 +1,8 @@
 # seeallthethings
+
+DISCLAIMER - The links in this set are all from publicly available sources.  
+DO NOT access feeds you dont have authorization to connect to.
+
 OSINT webcam mapping project
 
 How many public webcams do you know about in your state?
