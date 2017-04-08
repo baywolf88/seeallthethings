@@ -18,5 +18,5 @@ websites containing open webcams.
 Please feel free to contribute to the South Carolina cam set or start filling out the rest of States.
 
 If you wish to contribute you can do so here on Github, or just send me resources to help fill out the project
-email baywolf88@hotmail.com
+email baywolf88@protonmail.com
 twitter @baywolf88
