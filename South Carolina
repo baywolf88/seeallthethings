@@ -3,9 +3,6 @@ has_screenshot:true product:"D-Link/Airlink IP webcam http config" state:"SC"
 has_screenshot:true product:"hipcam" state:"SC"
 has_screenshot:true product:"vivotek" state:"SC"
 
-insecam.org Google Dork
-site:insecam.org South Carolina
-
 SCDOT Feed (requires m3u8 or rtmp player) https://www.hlsplayer.net/rtmp-player
 coordinates
 -81.050091
